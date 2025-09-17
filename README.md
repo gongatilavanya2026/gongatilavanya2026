@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Lavanya G
 
-### Aspiring AI/ML Engineer & Data Analyst | Building Real-World AI Solutions 🚀
+### 🎓 4th Year AI/ML Engineering Student | Aspiring Data Analyst | Passionate About NLP & Computer Vision 🚀
 
 ---
 
 ## 🌟 About Me
-I am an **AI/ML engineering student** passionate about turning data into insights and building **intelligent systems**.  
-Currently, I’m exploring **Machine Learning, Deep Learning, NLP, Data Analysis, and BI Tools**.  
+I am an **AI/ML engineering student** passionate about building intelligent systems and using **data-driven insights** to solve real-world problems.  
+Currently, I’m exploring **Machine Learning, Deep Learning, NLP, Computer Vision, and Business Intelligence tools**.  
 
-- 📚 Learning: Advanced ML, NLP pipelines, Model Deployment  
-- 💡 Interests: Predictive Modeling, AI in Healthcare, Data and Business Analysis 
-- 🏆 Goal: Build impactful AI/ML projects and contribute to open-source  
+- 📚 Learning: Model Deployment, Advanced NLP Pipelines, Computer Vision Applications  
+- 💡 Interests: Predictive Modeling, AI in Healthcare, Data Analytics, Business Intelligence  
+- 🏆 Goal: Build impactful AI/ML projects and contribute to open-source communities  
 
 ---
 
@@ -31,25 +31,14 @@ Currently, I’m exploring **Machine Learning, Deep Learning, NLP, Data Analysis
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=gongatilavanya2026&show_icons=true&count_private=true&theme=radical" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gongatilavanya2026&layout=compact&theme=radical" />
-</div>
-
----
-
 ## 🏗 Projects & Highlights
 
-| Project | Description | Tech Stack | Demo / Screenshot |
-|---------|-------------|------------|-----------------|
-| **AI Bug Tracker** | Track, manage & visualize software bugs with dashboards | Python, Flask, SQLite, Chart.js | ![Bug Tracker](https://raw.githubusercontent.com/gongatilavanya2026/AI-Bug-Tracker/main/static/dashboard.gif) |
-| **Spam Email Detection** | Classify emails as spam or not using ML & NLP | Python, Scikit-learn, Flask | ![Spam Detection](https://raw.githubusercontent.com/gongatilavanya2026/spam_email_detection/main/static/demo.gif) |
-| **Thrombocytopenia Detection** | Medical image classification using Deep Learning | Python, Keras, TensorFlow, OpenCV | ![Medical AI](https://raw.githubusercontent.com/gongatilavanya2026/thrombocytopenia-detection/main/static/demo.gif) |
-| **Bengaluru Housing Analysis** | Large dataset preprocessing & regression analysis | Python, Pandas, Seaborn, Matplotlib | ![Housing Analysis](https://raw.githubusercontent.com/gongatilavanya2026/bengaluru-housing/main/static/plot.png) |
-
-> You can add GIFs/screenshots of your project dashboards or outputs inside the `static` folder of each repo.
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **AI Bug Tracker** | Web app to track & manage software bugs with visualization | Python, Flask, SQLite |
+| **Spam Email Detection** | ML model to classify emails as spam/ham using NLP | Python, Scikit-learn, Flask |
+| **Thrombocytopenia Detection** | Deep learning project on medical image classification | Python, Keras, TensorFlow, OpenCV |
+| **Bengaluru Housing Analysis** | Large dataset preprocessing & regression analysis | Python, Pandas, Seaborn, Matplotlib |
 
 ---
 
@@ -66,8 +55,3 @@ Currently, I’m exploring **Machine Learning, Deep Learning, NLP, Data Analysis
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
-
----
- 
-
-
